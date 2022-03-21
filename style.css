@@ -146,3 +146,12 @@ main h2{
   .blue-div div div {
     margin: 50px;
   }
+.footer-div{
+    height: 8vh;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
